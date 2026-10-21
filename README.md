@@ -4,7 +4,7 @@ Filtro de **Realidad Aumentada** que pinta una **calavera de azúcar** de diseñ
 
 > Actividad 3 · Realidad Virtual y Aumentada: Máscara de Día de Muertos con mapeo facial de precisión (mejora de la Actividad 2).
 
-**▶ Probar:** https://rosaurarosauraaa.github.io/calavera-blox/
+**▶ Probar:** https://rosauraaa.github.io/calavera-blox/
 **🎥 Video demo:** _(agregar enlace al video de 30–60 s)_
 
 | Clásica | Turquesa | Dorada |
@@ -74,7 +74,7 @@ docs/                            plantilla, renders y artículo
 
 ## Instalación y ejecución
 
-1. **En el teléfono:** abre https://rosaurarosauraaa.github.io/calavera-blox/ y permite la cámara. Toca la pantalla una vez para activar el sonido.
+1. **En el teléfono:** abre https://rosauraaa.github.io/calavera-blox/ y permite la cámara. Toca la pantalla una vez para activar el sonido.
 2. **En la compu:** `npx serve .` y abre `http://localhost:3000`.
 3. **Regenerar recursos:**
    ```bash

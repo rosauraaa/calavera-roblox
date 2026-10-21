@@ -29,7 +29,7 @@
 **Resultado.** Una máscara que se mantiene alineada en ojos, nariz, boca y contorno, se deforma con cada gesto y tiene efectos temáticos. Funciona en el navegador del teléfono sin instalar nada.
 
 🎥 *(video o GIF aquí)*
-💀 Pruébala: https://rosaurarosauraaa.github.io/calavera-blox/
-💻 Código: https://github.com/Rosaurarosauraaa/calavera-blox
+💀 Pruébala: https://rosauraaa.github.io/calavera-blox/
+💻 Código: https://github.com/rosauraaa/calavera-blox
 
 #DíaDeMuertos #RealidadAumentada #MediaPipe #Blender #threejs #WebAR
